@@ -13,9 +13,6 @@
     "resolveJsonModule": true,
     "jsx": "react",
     "incremental": true,
-    "paths": {
-      "@/*": ["./src/*"]
-    }
   },
   "include": ["**/*.ts", "**/*.tsx"],
   "exclude": ["node_modules"]
